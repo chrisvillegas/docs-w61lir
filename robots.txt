@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-dz3jf1.oktostore.dev/sitemap.xml
